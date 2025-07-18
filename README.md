@@ -33,6 +33,17 @@ Facial age detection helps in:
 - 🏥 Healthcare support for age-sensitive diagnoses
 
 ---
+## 🧠 Notebook
+
+This project includes the complete implementation in a Jupyter Notebook format. It covers:
+
+- Data loading and preprocessing with TensorFlow
+- CNN and ANN model training
+- Model evaluation (accuracy, confusion matrix)
+- Real-world problem explanation
+
+📘 [Click here to view the notebook](./age_detection_cnn_ann.ipynb)
+---
 
 ## 📬 Contact
 
